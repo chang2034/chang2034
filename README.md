@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Cybersecurity Basics on Coursera+Google
 - 🔭 I'm currently working in IT L1 HelpDesk at University in Spain
 - 👯 I’m looking to collaborate on basics projects about Cybersecurity
+- I'm also interested in projects in ESP32 in C, python or Rust.
 
 See you soon!
 
